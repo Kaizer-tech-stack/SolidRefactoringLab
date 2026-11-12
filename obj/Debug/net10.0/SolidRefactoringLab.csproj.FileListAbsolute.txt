@@ -1,0 +1,14 @@
+/Users/trizh/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab
+/Users/trizh/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab.deps.json
+/Users/trizh/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab.runtimeconfig.json
+/Users/trizh/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab.dll
+/Users/trizh/SolidRefactoringLab/bin/Debug/net10.0/SolidRefactoringLab.pdb
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.AssemblyInfoInputs.cache
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.AssemblyInfo.cs
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.csproj.CoreCompileInputs.cache
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.dll
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/refint/SolidRefactoringLab.dll
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.pdb
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/SolidRefactoringLab.genruntimeconfig.cache
+/Users/trizh/SolidRefactoringLab/obj/Debug/net10.0/ref/SolidRefactoringLab.dll
